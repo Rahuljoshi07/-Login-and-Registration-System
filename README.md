@@ -34,6 +34,17 @@ Login-and-Registration-System is a solid C++ project that implements a console-b
 4. **Exit:** Users can exit the system when finished.
 
 ## Project Structure
+Login-and-Registration-System/
+
+├── main.cpp
+
+├── Employee.cpp
+
+├── Employee.h
+
+└── README.md
+
+
 ## Getting Started
 
 To run the Login-and-Registration-System project:
